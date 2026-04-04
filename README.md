@@ -27,7 +27,6 @@ I started my journey with programming and gradually expanded into **AI, Machine 
 I have experience in designing intelligent systems, developing mobile and web applications, and integrating AI into real-world solutions.
 
 🎓 Currently pursuing **B.Tech in Computer Science Engineering**  
-🎯 Goal: Achieve top-tier AI engineering roles (30+ LPA)
 
 ---
 
