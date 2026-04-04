@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Prashant Kishor Azad</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Innovator</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer+%7C+Innovator;Building+Intelligent+Systems+%F0%9F%A4%96;Welcome+to+my+GitHub+Profile!" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Prashantkishorazad">
-    <img src="https://img.shields.io/github/followers/Prashantkishorazad?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/Prashantkishorazad?label=Followers&style=for-the-badge&color=blue" />
   </a>
   <a href="https://github.com/Prashantkishorazad">
-    <img src="https://img.shields.io/github/stars/Prashantkishorazad?label=Stars&style=social" />
+    <img src="https://img.shields.io/github/stars/Prashantkishorazad?label=Stars&style=for-the-badge&color=yellow" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=120&section=header"/>
 </p>
 
 ---
