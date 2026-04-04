@@ -118,7 +118,30 @@ I have experience in designing intelligent systems, developing mobile and web ap
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
+## 📊 Development Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashantkishorazad&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+----------------------------------------
+
+## 📈 Productivity Metrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Review-28%25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Issues-28%25-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-32%25-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Commits-12%25-yellow?style=for-the-badge"/>
+</p>
+
+---
+
+## 📉 Contribution Graph (Advanced)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prashantkishorazad&theme=tokyonight" />
+</p>
 ---
 
 ## 🚀 Quote
