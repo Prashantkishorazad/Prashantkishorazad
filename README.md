@@ -47,7 +47,7 @@
 
 My name is **Prashant Kishor Azad**. As someone passionate about technology and innovation since my early academic years, I love building intelligent systems, scalable applications, and real-world impactful solutions.
 
-I started my journey with programming and gradually expanded into **AI, Machine Learning, and Full Stack Development**. I continuously improve my skills by building projects, exploring new technologies, and solving real-world problems.
+I started my journey with programming and gradually expanded into **AI, Machine Learning, and Full Stack Development**.
 
 ### 🚀 Projects I've Worked On
 - 🤖 Android Malware Detection System Using Machine Learning  
@@ -123,10 +123,6 @@ I have experience in designing intelligent systems, developing mobile and web ap
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prashantkishorazad&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashantkishorazad&theme=radical" />
 </p>
 
 <p align="center">
