@@ -119,14 +119,6 @@ I have experience in designing intelligent systems, developing mobile and web ap
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashantkishorazad&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantkishorazad&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 🚀 Quote
