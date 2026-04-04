@@ -16,9 +16,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=140&section=header&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,html,android,flutter,kotlin,tensorflow,pytorch,mongodb,mysql,firebase,django&perline=8" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prashantkishorazad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
