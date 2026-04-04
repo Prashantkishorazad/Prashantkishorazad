@@ -1,4 +1,46 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer;🤖+Machine+Learning+%7C+Deep+Learning;🌐+Building+Scalable+Real+World+Solutions;💡+Innovating+with+AI+and+Technology" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/Prashantkishorazad">
+    <img src="https://img.shields.io/github/followers/Prashantkishorazad?label=Followers&style=for-the-badge&color=0A66C2" />
+  </a>
+  <a href="https://github.com/Prashantkishorazad">
+    <img src="https://img.shields.io/github/stars/Prashantkishorazad?label=Stars&style=for-the-badge&color=FFD700" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Prashantkishorazad&label=Profile+Views&style=for-the-badge&color=brightgreen" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=140&section=header&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,html,android,flutter,kotlin,tensorflow,pytorch,mongodb,mysql,firebase,django&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashantkishorazad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantkishorazad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prashantkishorazad&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashantkishorazad&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prashantkishorazad&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prashantkishorazad&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashantkishorazad&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 ---
 
 ---
