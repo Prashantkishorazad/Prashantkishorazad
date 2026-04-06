@@ -67,6 +67,7 @@ I have experience in designing intelligent systems, developing mobile and web ap
 - 💻 GitHub: [GitHub](https://github.com/Prashantkishorazad)
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-username/)
 - 🌍 Twitter : https://x.com/_PrashantKishor/
+- 📔 Resume : [Resume] (https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view?usp=drive_link)
 
 ---
 
