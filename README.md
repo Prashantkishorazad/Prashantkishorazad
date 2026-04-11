@@ -50,6 +50,7 @@ I started my journey with programming and gradually expanded into **AI, Machine 
 - 🌐 Multiple full-stack web applications for businesses  
 
 I have experience in designing intelligent systems, developing mobile and web applications, and integrating AI into real-world solutions.
+also i solve 300+ DSA LeetCode Problem
 
 🎓 Currently pursuing **B.Tech in Computer Science Engineering**  
 
