@@ -62,6 +62,7 @@ I have experience in designing intelligent systems, developing mobile and web ap
 - 💻 GitHub: [GitHub](https://github.com/Prashantkishorazad)
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-username/)
 - 🌍 Twitter: [Twitter](https://x.com/_PrashantKishor/)
+- 🖥️ LeetCode: [LeetCode](https://leetcode.com/u/Prashantkishor/)
 
 ---
 
