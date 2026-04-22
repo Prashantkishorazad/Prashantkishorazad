@@ -123,19 +123,8 @@ also i solve 300+ DSA LeetCode Problem
 
 ---------------------------------------
 
-## 📈 Productivity Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Review-28%25-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Issues-28%25-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pull%20Requests-32%25-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Commits-12%25-yellow?style=for-the-badge"/>
-</p>
-
----------
 
 
 
 
 
-⭐ **If you like my work, consider giving a star to my repositories!**
