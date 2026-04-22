@@ -134,20 +134,8 @@ also i solve 300+ DSA LeetCode Problem
 
 ---------
 
-## 📉 Contribution Graph (Advanced)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prashantkishorazad&theme=tokyonight" />
-</p>
-------
-
----
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
----
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
