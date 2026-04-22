@@ -9,7 +9,7 @@
   <a href="https://github.com/Prashantkishorazad">
     <img src="https://img.shields.io/github/stars/Prashantkishorazad?label=Stars&style=for-the-badge&color=FFD700" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Prashantkishorazad&label=Profile+Views&style=for-the-badge&color=brightgreen" />
+ 
 </p>
 
 <p align="center">
