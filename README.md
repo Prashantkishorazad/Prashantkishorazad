@@ -117,17 +117,3 @@ also i solve 300+ DSA LeetCode Problem
 
 ---------------------------------------
 
-
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Prashant Kishor Azad</h1>
-
-<p align="center">
-  🚀 AI Engineer | 🤖 ML Enthusiast | 💻 Full Stack Developer
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=24&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Real+World+Solutions;Android+Security+%7C+ML+%7C+Full+Stack;300%2B+DSA+Problems+Solved+on+LeetCode;Future+AI+Engineer+%7C+Innovator" />
-</p>
-
----
-
