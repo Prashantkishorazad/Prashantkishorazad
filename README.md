@@ -141,17 +141,6 @@ also i solve 300+ DSA LeetCode Problem
 </p>
 ------
 
-<!-- Animated Header -->
-<h1 align="center">🛡️ Android Malware Detection System</h1>
-
-<p align="center">
-  🚀 AI-Powered | 🔍 Real-Time Detection | 📱 Android Security
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=24&center=true&vCenter=true&width=600&lines=Detecting+Malware+in+Real-Time...;Machine+Learning+Based+Security+System;Protect+Android+Devices+from+Threats" />
-</p>
-
 ---
 
 
