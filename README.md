@@ -154,41 +154,7 @@ also i solve 300+ DSA LeetCode Problem
 
 ---
 
-## 🎬 Project Animation Preview
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
-</p>
-
----
-
-## ⚙️ How It Works (Animated Flow)
-
-<p align="center">
-  🔽 Upload APK → 🧠 Feature Extraction → 🤖 ML Model → ⚠️ Malware Detection
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500"/>
-</p>
-
----
-
-## 🧠 Features
-
-✨ Real-time Malware Detection  
-✨ Machine Learning Based Classification  
-✨ APK Static Analysis  
-✨ High Accuracy Prediction  
-✨ Lightweight & Fast  
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,androidstudio,firebase,tensorflow,java" />
-</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
