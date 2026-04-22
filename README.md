@@ -141,35 +141,95 @@ also i solve 300+ DSA LeetCode Problem
 </p>
 ------
 
-# 🚀 Android Malware Detection System
+<!-- Animated Header -->
+<h1 align="center">🛡️ Android Malware Detection System</h1>
 
 <p align="center">
-  <!-- Typing Animation -->
+  🚀 AI-Powered | 🔍 Real-Time Detection | 📱 Android Security
 </p>
 
-## 🔍 Overview
-This project detects malicious Android applications using Machine Learning techniques.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F97316&size=24&center=true&vCenter=true&width=600&lines=Detecting+Malware+in+Real-Time...;Machine+Learning+Based+Security+System;Protect+Android+Devices+from+Threats" />
+</p>
 
-## ⚙️ Features
-- Real-time malware detection
-- ML-based classification
-- APK static analysis
-- Secure prediction system
+---
 
-## 🧠 Tech Stack
-- Python
-- Machine Learning
-- Android Analysis
-- Flask / API
+## 🎬 Project Animation Preview
 
-## 📊 Workflow
-1. Upload APK  
-2. Feature Extraction  
-3. ML Model Prediction  
-4. Result Display  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+</p>
 
-## 📸 Demo
-<!-- Add GIF here -->
+---
+
+## ⚙️ How It Works (Animated Flow)
+
+<p align="center">
+  🔽 Upload APK → 🧠 Feature Extraction → 🤖 ML Model → ⚠️ Malware Detection
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500"/>
+</p>
+
+---
+
+## 🧠 Features
+
+✨ Real-time Malware Detection  
+✨ Machine Learning Based Classification  
+✨ APK Static Analysis  
+✨ High Accuracy Prediction  
+✨ Lightweight & Fast  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,androidstudio,firebase,tensorflow,java" />
+</p>
+
+---
+
+## 📊 Model Performance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model-RandomForest-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔐 Security Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🚀 Future Scope
+
+✔️ Deep Learning Integration  
+✔️ Real-time Threat API  
+✔️ Play Store App Deployment  
+✔️ Cloud-based Malware Scanner  
+
+---
+
+## 👨‍💻 Author
+
+**Prashant Kishor Azad**  
+🔗 Portfolio: https://prashantkishorazad.github.io/My_Protfolio/  
+🔗 GitHub: https://github.com/Prashantkishorazad  
+
+---
+
+<p align="center">
+  ⭐ Don't forget to star this repo if you like it!
+</p>
 ---
 
 ## 📂 Project Structure
