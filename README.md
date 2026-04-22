@@ -190,46 +190,46 @@ also i solve 300+ DSA LeetCode Problem
   <img src="https://skillicons.dev/icons?i=python,androidstudio,firebase,tensorflow,java" />
 </p>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+
+<!-- Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🛡️+Android+Malware+Detection;Powered+by+Machine+Learning)](https://git.io/typing-svg)
+
+<!-- Animated Capsule Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF41,0D0D0D&height=200&section=header&text=Android%20Malware%20Detection&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20PyTorch%20%7C%20Cybersecurity&descAlignY=55&descAlign=50)
+
+---
+
+## 🔍 Scan Status
+
+![Scanning](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=true&width=500&height=120&lines=Initializing+scanner...;Loading+ML+model...;Scanning+APK+files...;Extracting+features...;Running+classification...;⚠️+Malware+Detected!;✅+System+Protected!)
+
+---
+
+## 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ---
 
 ## 📊 Model Performance
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model-RandomForest-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Active-orange?style=for-the-badge"/>
-</p>
+| Metric | Score |
+|--------|-------|
+| ✅ Accuracy | 97.3% |
+| 🎯 Precision | 96.8% |
+| 🔁 Recall | 97.1% |
+| 📈 F1 Score | 96.9% |
 
 ---
 
-## 🔐 Security Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400"/>
-</p>
-
----
-
-## 🚀 Future Scope
-
-✔️ Deep Learning Integration  
-✔️ Real-time Threat API  
-✔️ Play Store App Deployment  
-✔️ Cloud-based Malware Scanner  
-
----
-
-## 👨‍💻 Author
-
-**Prashant Kishor Azad**  
-🔗 Portfolio: https://prashantkishorazad.github.io/My_Protfolio/  
-🔗 GitHub: https://github.com/Prashantkishorazad  
-
----
-
-<p align="center">
-  ⭐ Don't forget to star this repo if you like it!
-</p>
+## ⚙️ How It Works
 ---
 
 ## 📂 Project Structure
