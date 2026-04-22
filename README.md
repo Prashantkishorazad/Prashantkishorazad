@@ -141,29 +141,35 @@ also i solve 300+ DSA LeetCode Problem
 </p>
 ------
 
-# 📱 Android Malware Detection System Using Machine Learning
+# 🚀 Android Malware Detection System
 
-## 🚀 Overview
-This project focuses on detecting malicious Android applications using Machine Learning techniques. The system analyzes app features such as permissions, API calls, and behaviors to classify whether an app is **benign** or **malicious**.
+<p align="center">
+  <!-- Typing Animation -->
+</p>
 
----
+## 🔍 Overview
+This project detects malicious Android applications using Machine Learning techniques.
 
-## 🎯 Features
-- 🔍 Malware detection using ML models
-- 📊 Feature extraction from APK files
-- ⚡ Real-time prediction
-- 📈 Model training and evaluation
-- 🧠 Multiple algorithms support (Random Forest, SVM, etc.)
-- 📱 Android app integration (optional)
+## ⚙️ Features
+- Real-time malware detection
+- ML-based classification
+- APK static analysis
+- Secure prediction system
 
----
+## 🧠 Tech Stack
+- Python
+- Machine Learning
+- Android Analysis
+- Flask / API
 
-## 🛠️ Tech Stack
-- **Programming Language:** Python, Java/Kotlin (Android)
-- **Machine Learning:** Scikit-learn, TensorFlow / PyTorch
-- **Dataset:** Drebin / CICMalDroid / Custom Dataset
-- **Tools:** Android Studio, APKTool, VirusTotal API
+## 📊 Workflow
+1. Upload APK  
+2. Feature Extraction  
+3. ML Model Prediction  
+4. Result Display  
 
+## 📸 Demo
+<!-- Add GIF here -->
 ---
 
 ## 📂 Project Structure
