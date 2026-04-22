@@ -2,13 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer;🤖+Machine+Learning+%7C+Deep+Learning;🌐+Building+Scalable+Real+World+Solutions;💡+Innovating+with+AI+and+Technology" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Prashantkishorazad">
-    <img src="https://img.shields.io/github/followers/Prashantkishorazad?label=Followers&style=for-the-badge&color=0A66C2" />
-  </a>
-  <a href="https://github.com/Prashantkishorazad">
-    <img src="https://img.shields.io/github/stars/Prashantkishorazad?label=Stars&style=for-the-badge&color=FFD700" />
-  </a>
+
  
 </p>
 <p align="center">
