@@ -34,14 +34,15 @@
 
 ## 🚀 Projects
 
+## 🚀 Projects
+
 | Project Name | Description |
 |-------------|------------|
-| **Android Malware Detection System** | Machine Learning-based system to detect malicious Android apps using static analysis techniques. Improves security by classifying APKs into benign or malware. |
-| **WorkLink (Labour Chauraha)** | A platform connecting daily wage workers with employers. Features include job listings, worker verification, real-time notifications, and secure payments. |
-| **GenAI Voice-based Hiring App** | AI-powered multilingual voice assistant that allows employers to post jobs via voice and matches workers using intelligent recommendation algorithms. |
-| **Predictive Maintenance System** | Industrial equipment monitoring system using ML to predict failures and automate maintenance, integrated with immersive technologies. |
-| **Autonomous Drone Surveillance System** | AI-based drone system for real-time surveillance, object detection, and automated monitoring for security applications. |
-| **DNS Performance Analyzer Tool** | Cybersecurity-focused tool built during CDAC internship to analyze DNS lookup performance using Python (DNSPython & resolver modules). |
+| **Android Malware Detection System** | Developed a machine learning-based system to detect Android malware using features like permissions, API calls, and behavioral analysis. Achieved high accuracy using supervised learning algorithms. |
+| **AI Multilingual Voice Translator** | Built an AI-powered real-time voice translation system using speech-to-text, neural machine translation, and text-to-speech for seamless multilingual communication. |
+| **Multi Disease Prediction System** | Designed a healthcare ML application to predict multiple diseases based on symptoms and clinical data using algorithms like Logistic Regression, Random Forest, and SVM. |
+| **Predictive Maintenance System (ML + XR)** | Created an industrial predictive maintenance system that analyzes sensor data to forecast failures, integrated with XR for immersive visualization of machine health. |
+| **AI Voice Assistant** | Developed a Python-based voice assistant with speech recognition, text-to-speech, Gemini AI integration, and automation capabilities including web actions and computer vision. |
 ---
 
 ## 🌐 Connect With Me
