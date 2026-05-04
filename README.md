@@ -32,21 +32,16 @@
 
 ## 👨‍💻 About Me
 
-My name is **Prashant Kishor Azad**. As someone passionate about technology and innovation since my early academic years, I love building intelligent systems, scalable applications, and real-world impactful solutions.
+## 🚀 Projects
 
-I started my journey with programming and gradually expanded into **AI, Machine Learning, and Full Stack Development**.
-
-### 🚀 Projects I've Worked On
-- 🤖 Android Malware Detection System Using Machine Learning  
-- 🛰️ Autonomous Drone Surveillance System  
-- 👷 WorkLink – AI-powered platform for daily wage workers  
-- 🌐 Multiple full-stack web applications for businesses  
-
-I have experience in designing intelligent systems, developing mobile and web applications, and integrating AI into real-world solutions.
-also i solve 300+ DSA LeetCode Problem
-
-🎓 Currently pursuing **B.Tech in Computer Science Engineering**  
-
+| Project Name | Description |
+|-------------|------------|
+| **Android Malware Detection System** | Machine Learning-based system to detect malicious Android apps using static analysis techniques. Improves security by classifying APKs into benign or malware. |
+| **WorkLink (Labour Chauraha)** | A platform connecting daily wage workers with employers. Features include job listings, worker verification, real-time notifications, and secure payments. |
+| **GenAI Voice-based Hiring App** | AI-powered multilingual voice assistant that allows employers to post jobs via voice and matches workers using intelligent recommendation algorithms. |
+| **Predictive Maintenance System** | Industrial equipment monitoring system using ML to predict failures and automate maintenance, integrated with immersive technologies. |
+| **Autonomous Drone Surveillance System** | AI-based drone system for real-time surveillance, object detection, and automated monitoring for security applications. |
+| **DNS Performance Analyzer Tool** | Cybersecurity-focused tool built during CDAC internship to analyze DNS lookup performance using Python (DNSPython & resolver modules). |
 ---
 
 ## 🌐 Connect With Me
