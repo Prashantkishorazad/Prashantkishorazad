@@ -1,5 +1,52 @@
+<!-- 👋 INTRO TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer;🤖+Machine+Learning+%7C+Deep+Learning;🌐+Building+Scalable+Real+World+Solutions;💡+Innovating+with+AI+and+Technology" />
+</p>
+
+---
+
+<!-- 🧠 TECHNOLOGIES ICON ANIMATION -->
+<h2 align="center">🧠 Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,firebase,git,github,docker,tensorflow,pytorch&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2000&color=F700FF&center=true&vCenter=true&width=600&lines=Tech+Stack+%F0%9F%9A%80;Building+with+Modern+Tools;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+<!-- ⚙️ BACKEND DEVELOPER ANIMATION -->
+<h2 align="center">⚙️ Backend Developer</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&color=00FFAA&center=true&vCenter=true&width=700&lines=Designing+Robust+APIs;Working+with+Databases+%F0%9F%97%83%EF%B8%8F;Building+Scalable+Systems;Firebase+%7C+Node.js+%7C+MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prashantkishorazad&theme=tokyonight" />
+</p>
+
+---
+
+<!-- 📊 DATA SCIENTIST ANIMATION -->
+<h2 align="center">📊 Data Scientist</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&color=FFD700&center=true&vCenter=true&width=700&lines=Data+Analysis+%F0%9F%93%88;Machine+Learning+Models;Deep+Learning+%F0%9F%A7%A0;Turning+Data+into+Insights" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashantkishorazad&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- 🔥 EXTRA COOL ANIMATION (OPTIONAL) -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 
