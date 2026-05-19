@@ -1,5 +1,6 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer;🤖+Machine+Learning+%7C+Deep+Learning;🌐+Building+Scalable+Real+World+Solutions;💡+Innovating+with+AI+and+Technology" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2400&color=FF5733&center=true&vCenter=true&width=900&lines=⚙️+Exploring+Iconic+Technologies;🚀+Driving+Innovation+with+Modern+Concepts;💡+Engineering+Future+Ready+Solutions" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2400&color=00C897&center=true&vCenter=true&width=900&lines=🛠️+Backend+Developer;⚡+Designing+Efficient+Systems;🔐+Building+Secure+and+Scalable+Architectures" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2400&color=8E44AD&center=true&vCenter=true&width=900&lines=📊+Data+Scientist;📈+Turning+Data+into+Insights;🧠+Solving+Problems+with+Intelligence" /> </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer;🤖+Machine+Learning+%7C+Deep+Learning;🌐+Building+Scalable+Real+World+Solutions;💡+Innovating+with+AI+and+Technology" />
+</p>
 
 -----------------------------
 
