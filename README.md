@@ -21,10 +21,6 @@
 
 --
 
-## 👨‍💻 About Me
-
-## 🚀 Projects
-
 ## 🚀 Projects
 
 | Project Name | Description |
