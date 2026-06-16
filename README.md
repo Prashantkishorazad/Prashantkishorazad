@@ -1,11 +1,92 @@
+<h1 align="center">Hi 👋, I'm Prashant Kishor Azad</h1>
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | ML Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer;🤖+Machine+Learning+%7C+Deep+Learning;🌐+Building+Scalable+Real+World+Solutions;💡+Innovating+with+AI+and+Technology" />
+  💡 Building scalable real-world AI solutions <br>
+  🤖 Passionate about Machine Learning & Deep Learning <br>
+  🌐 Turning ideas into impactful technology
 </p>
 
------------------------------
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **AI-powered real-world applications**
+- 🌱 Exploring **Advanced AI, XR + Machine Learning integration**
+- 💡 Strong interest in **Scalable Systems & Intelligent Automation**
+- ⚡ Love solving problems using **AI + Full Stack Development**
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Android Malware Detection System
+- ML-based system to detect Android malware  
+- Uses permissions, API calls & behavioral analysis  
+- Achieved high accuracy with supervised learning  
+
+---
+
+### 🌍 AI Multilingual Voice Translator
+- Real-time voice translation system  
+- Speech-to-text → Neural translation → Text-to-speech  
+- Enables seamless multilingual communication  
+
+---
+
+### 🏥 Multi Disease Prediction System
+- Predicts multiple diseases from symptoms & clinical data  
+- Uses Logistic Regression, Random Forest & SVM  
+
+---
+
+### 🏭 Predictive Maintenance System (ML + XR)
+- Forecasts machine failures using sensor data  
+- Integrated with XR for immersive visualization  
+
+---
+
+### 🎙️ AI Voice Assistant
+- Python-based intelligent assistant  
+- Features: Speech recognition, TTS, Gemini AI integration  
+- Supports automation, web actions & computer vision  
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://prashantkishorazad.github.io/My_Protfolio/
+- 📄 Resume: https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view
+- 💻 GitHub: https://github.com/Prashantkishorazad
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-username/
+- 🐦 Twitter: https://x.com/_PrashantKishor/
+- 🧠 LeetCode: https://leetcode.com/u/Prashantkishor/
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+C • C++ • JavaScript • Python  
+
+### 🌐 Web Development
+HTML • React • Node.js • Express  
+
+### 🤖 AI / ML / Data Science
+TensorFlow • PyTorch • Pandas • Seaborn • OpenCV • Scikit-learn  
+
+### 🗄️ Databases
+MongoDB • MySQL  
+
+### 🎨 Tools
+Illustrator • Figma  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prashantkishorazad&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Prashantkishorazad&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -17,77 +98,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prashantkishorazad&theme=tokyonight" />
 </p>
 
--
-
---
-
-## 🚀 Projects
-
-| Project Name | Description |
-|-------------|------------|
-| **Android Malware Detection System** | Developed a machine learning-based system to detect Android malware using features like permissions, API calls, and behavioral analysis. Achieved high accuracy using supervised learning algorithms. |
-| **AI Multilingual Voice Translator** | Built an AI-powered real-time voice translation system using speech-to-text, neural machine translation, and text-to-speech for seamless multilingual communication. |
-| **Multi Disease Prediction System** | Designed a healthcare ML application to predict multiple diseases based on symptoms and clinical data using algorithms like Logistic Regression, Random Forest, and SVM. |
-| **Predictive Maintenance System (ML + XR)** | Created an industrial predictive maintenance system that analyzes sensor data to forecast failures, integrated with XR for immersive visualization of machine health. |
-| **AI Voice Assistant** | Developed a Python-based voice assistant with speech recognition, text-to-speech, Gemini AI integration, and automation capabilities including web actions and computer vision. |
 ---
 
-## 🌐 Connect With Me
-
-- 🌍 Portfolio: [Portfolio](https://prashantkishorazad.github.io/My_Protfolio/)
-- 📔 Resume: [Resume](https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view?usp=drive_link)
-- 💻 GitHub: [GitHub](https://github.com/Prashantkishorazad)
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-username/)
-- 🌍 Twitter: [Twitter](https://x.com/_PrashantKishor/)
-- 🖥️ LeetCode: [LeetCode](https://leetcode.com/u/Prashantkishor/)
-
------
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
----
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-
-----
-
-### 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-
---------
-
-### 🗄️ Databases & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-### 🎨 Design Tools
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-## 📊 Development Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashantkishorazad&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
-
----------------------------------------
-
