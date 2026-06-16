@@ -11,123 +11,75 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
-
-🔭 Currently working on **AI-powered real-world applications**  
-🌱 Exploring **Advanced AI, XR + Machine Learning integration**  
-💡 Strong interest in **Scalable Systems & Intelligent Automation**  
-⚡ Love solving problems using **AI + Full Stack Development**
-
-</td>
-</tr>
-</table>
+- 🔭 Currently working on AI-powered real-world applications
+- 🌱 Exploring Advanced AI, XR + Machine Learning integration
+- 💡 Strong interest in Scalable Systems & Intelligent Automation
+- ⚡ Love solving problems using AI + Full Stack Development
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
-
 ### 🛡️ Android Malware Detection System
 - ML-based system to detect Android malware  
 - Uses permissions, API calls & behavioral analysis  
-- High accuracy using supervised learning  
+- Achieved high accuracy with supervised learning  
 
-</td>
-
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
+---
 
 ### 🌍 AI Multilingual Voice Translator
 - Real-time voice translation system  
-- Speech → Translation → Voice output  
-- Seamless multilingual communication  
+- Speech-to-text → Neural translation → Text-to-speech  
+- Enables seamless multilingual communication  
 
-</td>
-</tr>
-
-<tr>
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
+---
 
 ### 🏥 Multi Disease Prediction System
-- Predicts diseases from symptoms & clinical data  
-- Uses Logistic Regression, RF & SVM  
+- Predicts multiple diseases from symptoms & clinical data  
+- Uses Logistic Regression, Random Forest & SVM  
 
-</td>
+---
 
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
-
-### 🏭 Predictive Maintenance (ML + XR)
+### 🏭 Predictive Maintenance System (ML + XR)
 - Forecasts machine failures using sensor data  
-- XR-based visualization  
+- Integrated with XR for immersive visualization  
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2" style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
+---
 
 ### 🎙️ AI Voice Assistant
-- Python-based assistant  
-- Speech recognition + TTS + Gemini AI  
-- Automation + Computer Vision  
-
-</td>
-</tr>
-</table>
+- Python-based intelligent assistant  
+- Features: Speech recognition, TTS, Gemini AI integration  
+- Supports automation, web actions & computer vision  
 
 ---
 
 ## 🌐 Connect With Me
 
-<table>
-<tr>
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
-
-🌍 Portfolio: https://prashantkishorazad.github.io/My_Protfolio/  
-📄 Resume: https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view  
-💻 GitHub: https://github.com/Prashantkishorazad  
-🔗 LinkedIn: https://www.linkedin.com/in/your-username/  
-🐦 Twitter: https://x.com/_PrashantKishor/  
-🧠 LeetCode: https://leetcode.com/u/Prashantkishor/  
-
-</td>
-</tr>
-</table>
+- 🌍 Portfolio: https://prashantkishorazad.github.io/My_Protfolio/
+- 📄 Resume: https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view
+- 💻 GitHub: https://github.com/Prashantkishorazad
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-username/
+- 🐦 Twitter: https://x.com/_PrashantKishor/
+- 🧠 LeetCode: https://leetcode.com/u/Prashantkishor/
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
-
-### 👨‍💻 Languages  
+### 👨‍💻 Languages
 C • C++ • JavaScript • Python  
 
-### 🌐 Web  
+### 🌐 Web Development
 HTML • React • Node.js • Express  
 
-</td>
+### 🤖 AI / ML / Data Science
+TensorFlow • PyTorch • Pandas • Seaborn • OpenCV • Scikit-learn  
 
-<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
-
-### 🤖 AI / ML  
-TensorFlow • PyTorch • Pandas • OpenCV  
-
-### 🗄️ DB  
+### 🗄️ Databases
 MongoDB • MySQL  
 
-### 🎨 Tools  
-Figma • Illustrator  
-
-</td>
-</tr>
-</table>
+### 🎨 Tools
+Illustrator • Figma  
 
 ---
 
