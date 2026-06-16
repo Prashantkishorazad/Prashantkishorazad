@@ -11,75 +11,123 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **AI-powered real-world applications**
-- 🌱 Exploring **Advanced AI, XR + Machine Learning integration**
-- 💡 Strong interest in **Scalable Systems & Intelligent Automation**
-- ⚡ Love solving problems using **AI + Full Stack Development**
+<table>
+<tr>
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
+
+🔭 Currently working on **AI-powered real-world applications**  
+🌱 Exploring **Advanced AI, XR + Machine Learning integration**  
+💡 Strong interest in **Scalable Systems & Intelligent Automation**  
+⚡ Love solving problems using **AI + Full Stack Development**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
+
 ### 🛡️ Android Malware Detection System
 - ML-based system to detect Android malware  
 - Uses permissions, API calls & behavioral analysis  
-- Achieved high accuracy with supervised learning  
+- High accuracy using supervised learning  
 
----
+</td>
+
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
 
 ### 🌍 AI Multilingual Voice Translator
 - Real-time voice translation system  
-- Speech-to-text → Neural translation → Text-to-speech  
-- Enables seamless multilingual communication  
+- Speech → Translation → Voice output  
+- Seamless multilingual communication  
 
----
+</td>
+</tr>
+
+<tr>
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
 
 ### 🏥 Multi Disease Prediction System
-- Predicts multiple diseases from symptoms & clinical data  
-- Uses Logistic Regression, Random Forest & SVM  
+- Predicts diseases from symptoms & clinical data  
+- Uses Logistic Regression, RF & SVM  
 
----
+</td>
 
-### 🏭 Predictive Maintenance System (ML + XR)
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
+
+### 🏭 Predictive Maintenance (ML + XR)
 - Forecasts machine failures using sensor data  
-- Integrated with XR for immersive visualization  
+- XR-based visualization  
 
----
+</td>
+</tr>
+
+<tr>
+<td colspan="2" style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
 
 ### 🎙️ AI Voice Assistant
-- Python-based intelligent assistant  
-- Features: Speech recognition, TTS, Gemini AI integration  
-- Supports automation, web actions & computer vision  
+- Python-based assistant  
+- Speech recognition + TTS + Gemini AI  
+- Automation + Computer Vision  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: https://prashantkishorazad.github.io/My_Protfolio/
-- 📄 Resume: https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view
-- 💻 GitHub: https://github.com/Prashantkishorazad
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-username/
-- 🐦 Twitter: https://x.com/_PrashantKishor/
-- 🧠 LeetCode: https://leetcode.com/u/Prashantkishor/
+<table>
+<tr>
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px;">
+
+🌍 Portfolio: https://prashantkishorazad.github.io/My_Protfolio/  
+📄 Resume: https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view  
+💻 GitHub: https://github.com/Prashantkishorazad  
+🔗 LinkedIn: https://www.linkedin.com/in/your-username/  
+🐦 Twitter: https://x.com/_PrashantKishor/  
+🧠 LeetCode: https://leetcode.com/u/Prashantkishor/  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<table>
+<tr>
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
+
+### 👨‍💻 Languages  
 C • C++ • JavaScript • Python  
 
-### 🌐 Web Development
+### 🌐 Web  
 HTML • React • Node.js • Express  
 
-### 🤖 AI / ML / Data Science
-TensorFlow • PyTorch • Pandas • Seaborn • OpenCV • Scikit-learn  
+</td>
 
-### 🗄️ Databases
+<td style="border: 2px solid #00ff99; padding: 15px; border-radius: 10px; width: 50%;">
+
+### 🤖 AI / ML  
+TensorFlow • PyTorch • Pandas • OpenCV  
+
+### 🗄️ DB  
 MongoDB • MySQL  
 
-### 🎨 Tools
-Illustrator • Figma  
+### 🎨 Tools  
+Figma • Illustrator  
+
+</td>
+</tr>
+</table>
 
 ---
 
