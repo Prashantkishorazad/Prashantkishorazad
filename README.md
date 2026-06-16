@@ -59,12 +59,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
----
-
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 
 ----
 
@@ -81,8 +75,6 @@
 ### 🗄️ Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
 ---
 
