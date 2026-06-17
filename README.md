@@ -1,85 +1,73 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+Deep+Learning;Building+Real+World+AI+Solutions" />
-</h1>
-
----
-
-## 🧑‍💻 Prashant's GitHub Dashboard
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prashantkishorazad&theme=highcontrast&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prashant+Kishor+Azad;🚀+AI+Engineer+%7C+Full+Stack+Developer;🤖+Machine+Learning+%7C+Deep+Learning;🌐+Building+Scalable+Real+World+Solutions;💡+Innovating+with+AI+and+Technology" />
 </p>
 
----
-
-## 📊 GitHub Analytics
+-----------------------------
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashantkishorazad&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Prashantkishorazad&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prashantkishorazad&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prashantkishorazad&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashantkishorazad&theme=tokyonight" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🟢 Project | 🟢 Description |
-|-----------|--------------|
-| Android Malware Detection System | ML-based malware detection using permissions, API calls & behavioral analysis |
-| AI Multilingual Voice Translator | Real-time speech translation using STT → NMT → TTS |
-| Multi Disease Prediction System | Predict diseases using Logistic Regression, Random Forest & SVM |
-| Predictive Maintenance (ML + XR) | Forecast machine failures + XR visualization |
-| AI Voice Assistant | Python assistant with speech recognition, Gemini AI & automation |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🟢 Languages
-<p>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prashantkishorazad&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prashantkishorazad&theme=tokyonight" />
 </p>
 
----
+-
 
-### 🟢 Web Development
-<p>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00FF00"/>
-</p>
+--
 
----
+## 🚀 Projects
 
-### 🟢 AI / ML
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/ScikitLearn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF00"/>
-</p>
-
----
-
-### 🟢 Databases
-<p>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00"/>
-</p>
-
+| Project Name | Description |
+|-------------|------------|
+| Android Malware Detection System | Developed a machine learning-based system to detect Android malware using features like permissions, API calls, and behavioral analysis. Achieved high accuracy using supervised learning algorithms. |
+| AI Multilingual Voice Translator | Built an AI-powered real-time voice translation system using speech-to-text, neural machine translation, and text-to-speech for seamless multilingual communication. |
+| Multi Disease Prediction System | Designed a healthcare ML application to predict multiple diseases based on symptoms and clinical data using algorithms like Logistic Regression, Random Forest, and SVM. |
+| Predictive Maintenance System (ML + XR) | Created an industrial predictive maintenance system that analyzes sensor data to forecast failures, integrated with XR for immersive visualization of machine health. |
+| AI Voice Assistant | Developed a Python-based voice assistant with speech recognition, text-to-speech, Gemini AI integration, and automation capabilities including web actions and computer vision. |
 ---
 
 ## 🌐 Connect With Me
+
+- 🌍 Portfolio: [Portfolio](https://prashantkishorazad.github.io/My_Protfolio/)
+- 📔 Resume: [Resume](https://drive.google.com/file/d/1QgpXCHi5utNY_j20iaI8Hjyjq-uod181/view?usp=drive_link)
+- 💻 GitHub: [GitHub](https://github.com/Prashantkishorazad)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-username/)
+- 🌍 Twitter: [Twitter](https://x.com/_PrashantKishor/)
+- 🖥️ LeetCode: [LeetCode](https://leetcode.com/u/Prashantkishor/)
+
+-----
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+---
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+
+----
+
+### 🤖 AI / ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Seaborn](https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+--------
